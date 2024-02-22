@@ -1,9 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Atish Kumar Sahu
 ========================================================================================================================================
-
-A Passionate Frontend Developer From India
+A Passionate Full-Stack Software & Web Developer From India
 ------------------------------------------
-
 ## 🚀 About Me
 I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate with experience in Java, Web Development(HTML, CSS, JavaScript), Frontend Development(React, Next, Vue), Backend Development(Node, Express) and Database Language(Mongo DV, My SQL). I am actively seeking a challenging role in the technology industry to fuel continuous learning and professional growth. My strong programming background and passion for innovation make me a valuable asset for any dynamic team of which I am a part.
 
