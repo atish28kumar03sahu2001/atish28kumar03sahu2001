@@ -63,4 +63,12 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 
 ## 🧑‍💻 Projects
 
+<div width="100%" align="center"><a href="https://github.com/MAKSVOID28032001/React-Web-Dev-01.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AKS2831&repo=Sharpener-React-02&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/MAKSVOID28032001/Sharpener-React-Web-01.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AKS2831&repo=Sharpener-Web-Project-01&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/MAKSVOID28032001/Game-Hub-Puzzle-Play.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AKS2831&repo=Sharpener-React-02&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/MAKSVOID28032001/Web-Dev-Project-02.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AKS2831&repo=Sharpener-Web-Project-01&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/MAKSVOID28032001/Java-Game-Series.git" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AKS2831&repo=Game-Hub-Puzzle-Play&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/MAKSVOID28032001/Java-Project-03.git" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AKS2831&repo=React-Project-02&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div>
