@@ -57,9 +57,10 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 ![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,next,vue,nodejs,mongo,mysql,firebase)
 
 ## 🔗 Links
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/MAKSVOID28032001) 
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/AKS2831) 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aks280301/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/atish_kumar_sahu_280301?igsh=MW5yY2VvdW9ibmpmeA==)
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/50px-Facebook_f_logo_%282019%29.svg.png)](https://www.facebook.com/Atish280301?mibextid=ZbWKwL)
 
 ## 👑 Badges
 
