@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Passionate Full-Stack Software & Web Developer From India
 ------------------------------------------
 ## 🚀 About Me
-I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate with experience in Java, Web Development(HTML, CSS, JavaScript), Frontend Development(React, Next, Vue), Backend Development(Node, Express) and Database Language(Mongo DV, My SQL). I am actively seeking a challenging role in the technology industry to fuel continuous learning and professional growth. My strong programming background and passion for innovation make me a valuable asset for any dynamic team of which I am a part.
+I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate with experience in Java, Web Development(HTML, CSS, JavaScript), Frontend Development(React, Next, Vue), Backend Development(Node, Express) and Database Language(Mongo DB, My SQL). I am actively seeking a challenging role in the technology industry to fuel continuous learning and professional growth. My strong programming background and passion for innovation make me a valuable asset for any dynamic team of which I am a part.
 
 ## Resume: [Atish Kumar Sahu](https://drive.google.com/file/d/1jdYlGIuq-qjhMHEOPoUft4UQh_7HrC7l/view?usp=sharing)
 
