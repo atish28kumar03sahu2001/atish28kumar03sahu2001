@@ -55,7 +55,7 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 
 ## 🛠 Skills
 
-![My Skills](https://skillicons.dev/icons?i=java,html,css,js,bootstrap,react,redux,next,vue,nodejs,mongo,mysql,materialui,firebase,github)
+![My Skills](https://skillicons.dev/icons?i=java,html,css,js,react,redux,next,vue,nodejs,mongo,mysql,materialui,firebase,github)
 
 ## 🔗 Connect With Me
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/AKS2831) 
