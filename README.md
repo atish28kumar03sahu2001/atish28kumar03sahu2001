@@ -88,6 +88,14 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 | Expense Report | [github](https://github.com/MAKSVOID28032001/React-Web-Dev-01.git) | [Click Here!](https://atishksahu-expensetracker-chart-react.netlify.app/) |
 | TO-DO List | [github](https://github.com/MAKSVOID28032001/React-Web-Dev-02.git) | [Click Here!](https://atish-kumar-sahu-todo-list-react-app.netlify.app/) |
 
+### Sharpener Web Development Projects
+
+| Project Title | Git Link | Link |
+| :---: | :---: | :---: |
+|Candy Shop|[github](https://github.com/MAKSVOID28032001/Sharpener-Web-Dev-02.git)|[Click Here!](https://atish-kumar-sahu-chocolate-shop-app.netlify.app/)|
+|Expense Report|[github](https://github.com/MAKSVOID28032001/Sharpener-Web-Dev-01.git)|[Click Here!](https://atish-kumar-sahu-expense-report-app.netlify.app/)|
+
+
 ### Web Development Projects
 
 | Project Title | Git Link | Link |
