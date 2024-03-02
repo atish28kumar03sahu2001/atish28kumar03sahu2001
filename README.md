@@ -71,6 +71,13 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 
 <a href="https://github.com/MAKSVOID28032001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAKSVOID28032001&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAKSVOID28032001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MAKSVOID28032001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 ## 🧑‍💻 Projects
 
 ### Sharpener Frontend Projects
