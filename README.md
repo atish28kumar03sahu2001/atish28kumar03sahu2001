@@ -84,6 +84,7 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 
 | Project Title | Git Link | Link |
 | :---: | :---: | :---: |
+| Trend Blendz |  [github](https://github.com/MAKSVOID28032001/React-Web-Dev-04.git) |  [Click Here!](https://trendblendz-react-atish-kumar-sahu.netlify.app/) |
 | Speedy Snacks | [github](https://github.com/MAKSVOID28032001/React-Web-Dev-03.git) | [Click Here!](https://speedy-snacks-react-atish-kumar-sahu.netlify.app/) |
 | Expense Report | [github](https://github.com/MAKSVOID28032001/React-Web-Dev-01.git) | [Click Here!](https://atishksahu-expensetracker-chart-react.netlify.app/) |
 | TO-DO List | [github](https://github.com/MAKSVOID28032001/React-Web-Dev-02.git) | [Click Here!](https://atish-kumar-sahu-todo-list-react-app.netlify.app/) |
