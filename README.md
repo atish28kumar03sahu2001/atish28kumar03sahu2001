@@ -55,7 +55,7 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 
 ## 🛠 Skills
 
-![My Skills](https://skillicons.dev/icons?i=eclipse,java,vscode,html,css,js,typescript,react,redux,next,vue,nodejs,mongo,mysql,firebase,github)
+![My Skills](https://skillicons.dev/icons?i=eclipse,java,vscode,html,css,js,typescript,react,redux,next,nodejs,mongo,mysql,firebase,github)
 
 ## 🔗 Connect With Me
 [![My Skills](https://skillicons.dev/icons?i=github)]([https://github.com/atishksahuoff2831])
