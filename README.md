@@ -68,7 +68,7 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atishksahuoff2831&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&bg_color=000000&title_color=00FFFF&text_color=00FFFF&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atishksahuoff2831&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&title_color=00FFFF&bg_color=000000&text_color=00FFFF&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atishksahuoff2831&radius=16&theme=react&area=true&title_color=00FFFF&text_color=00FFFF&order=5" height="300" width="100" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atishksahuoff2831&radius=16&theme=react&area=true&title_color=00FFFF&text_color=00FFFF&order=5" height="300" width="250" alt="activity-graph graph" />
 </div>
 
 ## 🧑‍💻 Projects
