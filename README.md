@@ -66,7 +66,9 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atishksahuoff2831&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&bg_color=000000&title_color=00FFFF&text_color=00FFFF&order=1" height="150" alt="stats graph" />
+<a href="http://www.github.com/atishksahuoff2831"><img src="https://github-readme-stats.vercel.app/api?username=atishksahuoff2831&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="atishksahuoff2831's GitHub stats" /></a>
+
+<a href="http://www.github.com/atishksahuoff2831"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atishksahuoff2831&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atishksahuoff2831&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&title_color=00FFFF&bg_color=000000&text_color=00FFFF&order=2" height="150" alt="languages graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atishksahuoff2831&radius=16&theme=react&area=true&title_color=00FFFF&text_color=00FFFF&order=5" height="270" alt="activity-graph graph" />
 </div>
