@@ -110,6 +110,3 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 |Stopwatch|[github](https://github.com/atishksahuoff2831/Web-Dev-Project-03.git)|[Click Here!](https://atish-kumar-sahu-stop-watch-web-app.netlify.app/)|
 |Registration Form|[github](https://github.com/atishksahuoff2831/Web-Dev-Project-01.git)|[Click Here!](https://registration-form-atish-k-sahu-web.netlify.app/)|
 |Demo Chrome Extension|[github](https://github.com/atishksahuoff2831/Demo-Chrome-Extension.git)|[Click Here!](https://github.com/atishksahuoff2831/Demo-Chrome-Extension.git)|
-
-
-<img src="https://raw.githubusercontent.com/atishksahuoff2831/atishksahuoff2831/output/snake.svg" alt="Snake animation" />
