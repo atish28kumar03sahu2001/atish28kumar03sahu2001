@@ -100,6 +100,8 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 |Candy Shop|[github](https://github.com/atishksahuoff2831/Sharpener-Web-Dev-02.git)|[Click Here!](https://sharpener-atish-chocolate-shop-app.netlify.app/)|
 |Expense Report|[github](https://github.com/atishksahuoff2831/Sharpener-Web-Dev-01.git)|[Click Here!](https://sharpener-atish-expense-report-app.netlify.app/)|
 
+<img src="https://raw.githubusercontent.com/atishksahuoff2831/atishksahuoff2831/output/snake.svg" alt="Snake animation" />
+
 
 ### Web Development Projects
 
