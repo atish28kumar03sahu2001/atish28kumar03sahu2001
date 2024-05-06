@@ -104,7 +104,7 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 
 | Project Title | Git Link | Link |
 | :---: | :---: | :---: |
-| Game Hub: Puzzles & Play |[github](https://github.com/atishksahuoff2831/Game-Hub-Puzzle-Play.git)|[Click Here!](https://atish-kumar-sahu-game-hub-puzzle-play.netlify.app/)|
+| Game Hub: Puzzles & Play |[github](https://github.com/atishksahuoff2831/Game-Hub-Puzzle-Play.git)|[Click Here!](https://gamehub-puzzle-play-atish-kumar-sahu.netlify.app/)|
 |QuizQuest|[github](https://github.com/atishksahuoff2831/Web-Dev-Project-02.git)|[Click Here!](https://atish-kumar-sahu-quiz-web-app.netlify.app/)|
 |Stopwatch|[github](https://github.com/atishksahuoff2831/Web-Dev-Project-03.git)|[Click Here!](https://atish-kumar-sahu-stop-watch-web-app.netlify.app/)|
 |Registration Form|[github](https://github.com/atishksahuoff2831/Web-Dev-Project-01.git)|[Click Here!](https://registration-form-atish-k-sahu-web.netlify.app/)|
