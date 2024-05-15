@@ -79,10 +79,10 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 
 | Project Title | Git Link | Link |
 | :---: | :---: | :---: |
-|Admin Panel Medicine Shop|[github](https://github.com/atishksahuoff2831/Sharpener-React-Web-01.git)|[Click Here!](https://admin-panel-medicine-shop-react-atish.netlify.app/)|
-|Seller's Admin Page|[github](https://github.com/atishksahuoff2831/Sharpener-React-Web-02.git)|[Click Here!](https://sharpener-seller-admin-page-react-aks.netlify.app/)|
-|React-Redux Expense App|[github](https://github.com/atishksahuoff2831/Sharpener-React-Web-03.git)|[Click Here!](https://sharpener-reactredux-atish-kumar-sahu.netlify.app/)|
-|React-Redux-Tool-Kit Mail Client|[github](https://github.com/atishksahuoff2831/Sharpener-React-Web-04.git)|[Click Here!](https://mail-client-project-atish-kumar-sahu.netlify.app/)|
+| Admin Panel Medicine Shop |[github](https://github.com/atishksahuoff2831/Sharpener-React-Web-01.git)|[Click Here!](https://admin-panel-medicine-shop-react-atish.netlify.app/)|
+| Seller's Admin Page |[github](https://github.com/atishksahuoff2831/Sharpener-React-Web-02.git)|[Click Here!](https://sharpener-seller-admin-page-react-aks.netlify.app/)|
+| React-Redux Expense App |[github](https://github.com/atishksahuoff2831/Sharpener-React-Web-03.git)|[Click Here!](https://sharpener-reactredux-atish-kumar-sahu.netlify.app/)|
+| React-Redux-Tool-Kit Mail Client |[github](https://github.com/atishksahuoff2831/Sharpener-React-Web-04.git)|[Click Here!](https://mail-client-project-atish-kumar-sahu.netlify.app/)|
 
 ### Frontend Projects
 
@@ -97,15 +97,16 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 
 | Project Title | Git Link | Link |
 | :---: | :---: | :---: |
-|Candy Shop|[github](https://github.com/atishksahuoff2831/Sharpener-Web-Dev-02.git)|[Click Here!](https://sharpener-web-dev-candy-shop-app-aks.netlify.app/)|
-|Expense Report|[github](https://github.com/atishksahuoff2831/Sharpener-Web-Dev-01.git)|[Click Here!](https://sharpener-web-dev-expense-report-aks.netlify.app/)|
+| Candy Shop |[github](https://github.com/atishksahuoff2831/Sharpener-Web-Dev-02.git)|[Click Here!](https://sharpener-web-dev-candy-shop-app-aks.netlify.app/)|
+| Expense Report |[github](https://github.com/atishksahuoff2831/Sharpener-Web-Dev-01.git)|[Click Here!](https://sharpener-web-dev-expense-report-aks.netlify.app/)|
 
 ### Web Development Projects
 
 | Project Title | Git Link | Link |
 | :---: | :---: | :---: |
 | Game Hub: Puzzles & Play |[github](https://github.com/atishksahuoff2831/Game-Hub-Puzzle-Play.git)|[Click Here!](https://gamehub-puzzle-play-atish-kumar-sahu.netlify.app/)|
-|QuizQuest|[github](https://github.com/atishksahuoff2831/Web-Dev-Project-02.git)|[Click Here!](https://atish-kumar-sahu-quiz-web-app.netlify.app/)|
-|Stopwatch|[github](https://github.com/atishksahuoff2831/Web-Dev-Project-03.git)|[Click Here!](https://atish-kumar-sahu-stop-watch-web-app.netlify.app/)|
-|Registration Form|[github](https://github.com/atishksahuoff2831/Web-Dev-Project-01.git)|[Click Here!](https://registration-form-atish-k-sahu-web.netlify.app/)|
-|Demo Chrome Extension|[github](https://github.com/atishksahuoff2831/Demo-Chrome-Extension.git)|[Click Here!](https://github.com/atishksahuoff2831/Demo-Chrome-Extension.git)|
+| Climate-Compass |[github](https://github.com/atishksahuoff2831/climate-compass-web-app.git)|[Click Here!](https://climate-compass-app-air-quality-aks.netlify.app/)|
+| QuizQuest |[github](https://github.com/atishksahuoff2831/Web-Dev-Project-02.git)|[Click Here!](https://atish-kumar-sahu-quiz-web-app.netlify.app/)|
+| Stopwatch |[github](https://github.com/atishksahuoff2831/Web-Dev-Project-03.git)|[Click Here!](https://atish-kumar-sahu-stop-watch-web-app.netlify.app/)|
+| Registration Form |[github](https://github.com/atishksahuoff2831/Web-Dev-Project-01.git)|[Click Here!](https://registration-form-atish-k-sahu-web.netlify.app/)|
+| Demo Chrome Extension |[github](https://github.com/atishksahuoff2831/Demo-Chrome-Extension.git)|[Click Here!](https://github.com/atishksahuoff2831/Demo-Chrome-Extension.git)|
