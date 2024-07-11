@@ -58,7 +58,7 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 ![My Skills](https://skillicons.dev/icons?i=eclipse,java,vscode,html,css,js,typescript,react,redux,next,nodejs,mongo,mysql,firebase,github)
 
 ## 🔗 Connect With Me
-[![My Skills](https://skillicons.dev/icons?i=github)]([https://github.com/atishksahuoff2831])
+[![My Skills](https://skillicons.dev/icons?i=github)]([https://github.com/kumar28sahu03atish01])
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aks280301/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/atish_kumar_sahu_280301?igsh=MW5yY2VvdW9ibmpmeA==)
 [![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/50px-Facebook_f_logo_%282019%29.svg.png)](https://www.facebook.com/Atish280301?mibextid=ZbWKwL)
@@ -66,9 +66,9 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 ## 📊 My GitHub Stats
 
 <div align="center">
-<a href="http://www.github.com/atishksahuoff2831"><img src="https://github-readme-stats.vercel.app/api?username=atishksahuoff2831&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="atishksahuoff2831's GitHub stats" /></a>
+<a href="https://github.com/kumar28sahu03atish01"><img src="https://github-readme-stats.vercel.app/api?username=kumar28sahu03atish01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="kumar28sahu03atish01's GitHub stats" /></a>
 
-<a href="http://www.github.com/atishksahuoff2831"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atishksahuoff2831&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&bg_color=000000&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atishksahuoff2831&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&title_color=00FFFF&bg_color=000000&text_color=00FFFF&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atishksahuoff2831&radius=16&theme=react&area=true&title_color=00FFFF&text_color=00FFFF&order=5" height="270" alt="activity-graph graph" />
+<a href="https://github.com/kumar28sahu03atish01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar28sahu03atish01&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&bg_color=000000&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar28sahu03atish01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&title_color=00FFFF&bg_color=000000&text_color=00FFFF&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar28sahu03atish01&radius=16&theme=react&area=true&title_color=00FFFF&text_color=00FFFF&order=5" height="270" alt="activity-graph graph" />
 </div>
