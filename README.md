@@ -23,7 +23,7 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 
 🤝  Web Development Projects (HTML, CSS, JavaScript)
 
-🤝  Frontend Projects (React.js, Next.js, Vue.js)
+🤝  Frontend Projects (React.js, Next.js)
 
 🤝  Backend Projects (Node.js, Express.js, Mongo DB, My SQL)
 
