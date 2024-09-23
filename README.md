@@ -66,9 +66,9 @@ I am a Full-Stack Software & Web Developer and highly skilled CSE/IT graduate wi
 ## 📊 My GitHub Stats
 
 <div align="center">
-<a href="https://github.com/kumar28sahu03atish01"><img src="https://github-readme-stats.vercel.app/api?username=kumar28sahu03atish01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="kumar28sahu03atish01's GitHub stats" /></a>
+<a href="https://github.com/atish28kumar03sahu2001"><img src="https://github-readme-stats.vercel.app/api?username=atish28kumar03sahu2001&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="atish28kumar03sahu2001's GitHub stats" /></a>
 
-<a href="https://github.com/kumar28sahu03atish01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar28sahu03atish01&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&bg_color=000000&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar28sahu03atish01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&title_color=00FFFF&bg_color=000000&text_color=00FFFF&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumar28sahu03atish01&radius=16&theme=react&area=true&title_color=00FFFF&text_color=00FFFF&order=5" height="270" alt="activity-graph graph" />
+<a href="https://github.com/atish28kumar03sahu2001"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atish28kumar03sahu2001&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&bg_color=000000&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atish28kumar03sahu2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&title_color=00FFFF&bg_color=000000&text_color=00FFFF&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atish28kumar03sahu2001&radius=16&theme=react&area=true&title_color=00FFFF&text_color=00FFFF&order=5" height="270" alt="activity-graph graph" />
 </div>
